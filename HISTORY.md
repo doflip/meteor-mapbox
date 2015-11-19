@@ -1,3 +1,13 @@
+##2.2.3 (dev)
+
+* Update mapbox.js to version '2.2.3'
+* Update mapbox-gl.js to version '0.11.4'
+* Update turf.js to version '2.0.2'
+* Update mapdirections to version '0.4.0'
+* Update leaflet-locatecontrol to version '0.43.0'
+* Update leaflet-heat.js to version '0.1.3'
+* Update leaflet-fullscreen.js to version '0.0.4'
+
 ##2.1.5 (dev)
 
 * Update mapbox.js to version `2.1.5`.
